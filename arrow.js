@@ -1,21 +1,28 @@
+//First 
 
+function double(num){
+    return num*2;
+}
 
-// Second function 
-//const value = function(num){
-    //return num*2;
-//}
+// Second 
+const doubleValue = function(num){
+   return num*2;
+}
 
-// Third function
+// Third
 
 const doubleIt = num => num*2
+
 
 const value = (x,y) => x+y;
 
 console.log(value(10,20));
 
+// No parameter
 const give = ()=>5
 
 console.log(give());
+
 
 //When i use multiple line 
 

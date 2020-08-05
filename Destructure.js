@@ -18,7 +18,7 @@ const complexObject = {
      name : "Tahsin",
 
      info : {
-         address :  "Patuakali"
+         address : "Patuakali"
      }
 }
 

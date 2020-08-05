@@ -1,3 +1,5 @@
+
+// How to creat class and object .
 class Student{
    constructor(sId , sName){
        this.id = sId;

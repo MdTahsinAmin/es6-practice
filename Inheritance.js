@@ -1,3 +1,5 @@
+// Inheritance 
+
 class Parent{
     constructor(){
         this.fatherName = "Md.Bani Amin";

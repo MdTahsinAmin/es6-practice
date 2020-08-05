@@ -1,3 +1,5 @@
+// String template 
+
 const firstName = "Justin";
 const lastName = "TimberLake";
 
